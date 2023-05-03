@@ -92,7 +92,7 @@ class Taller extends CI_Controller {
 		$this->General_model->set('talleres', $valores);
 		redirect(base_url('formulario/1'));
 	}
-
+ 
 	public function borrar_taller()
 	{
 		$id_taller = $this->uri->segment(2);

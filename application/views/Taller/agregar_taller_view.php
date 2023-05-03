@@ -10,4 +10,4 @@
     <h1>Controlador: Taller</h1>
     <h2>Vista: Agregar_taller_view</h2>
 </body>
-</html>
+</html> 
